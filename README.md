@@ -1,5 +1,18 @@
-# Skripsilog
-## Naskah
+# Skripsi
+
+Alhamdulillah, Puji syukur penulis panjatkan kepada Allah SWT karena dengan restu-Nya pelaksanaan dan penyusunan skripsi yang berjudul “Rancang Bangun Sistem Manajemen User Hotspot Menggunakan Mikrotik PHP API Berbasis Web Di Pondok Pesantren Al-Luqmaniyyah” dapat diselesaikan sebagai persyaratan menyelesaikan Sarjana Strata Satu (S1) Jurusan Teknik Informatika, Fakultas Teknik Universitas PGRI Yogyakarta.
+
+## Credit
+
+**Kedua orang tuaku
+**Adikku
+**Keluarga besarku
+**Sahabat-sahabatku
+**Almamaterku
+
+
+## Progress
+### Naskah
  
  ✓  cover @done (17-04-15 04:19)
 
@@ -27,7 +40,7 @@
 
  ✓   lampiran @critical @due( +11d) @done (17-04-29 00:55)
 
-## Aplikasi
+### Aplikasi
 
  ✓  Admin @done (17-04-15 04:51)
 
