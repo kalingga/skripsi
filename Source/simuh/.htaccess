@@ -1,0 +1,3 @@
+Options -Indexes
+php_flag opcache.enable Off
+ErrorDocument 404 /404.php
