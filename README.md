@@ -4,11 +4,11 @@ Alhamdulillah, Puji syukur penulis panjatkan kepada Allah SWT karena dengan rest
 
 ## Credit
 
-**Kedua orang tuaku
-**Adikku
-**Keluarga besarku
-**Sahabat-sahabatku
-**Almamaterku
++ Kedua orang tuaku
++ Adikku
++ Keluarga besarku
++ Sahabat-sahabatku
++ Almamaterku
 
 
 ## Progress
