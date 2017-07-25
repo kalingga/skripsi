@@ -1,13 +1,13 @@
 image: ruby:2.3
 
-skripsi:
-  stage: skripsi
+test:
+  stage: test
   script:
   - gem install jekyll
-  - jekyll build -d skripsi
+  - jekyll build -d test
   artifacts:
     paths:
-    - skripsi
+    - test
   except:
   - master
 
