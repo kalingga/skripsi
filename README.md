@@ -1,8 +1,8 @@
-![Build Status](https://gitlab.com/pages/<project>/badges/master/build.svg)
+![Build Status](https://gitlab.com/pages/skripsi/badges/master/build.svg)
 
 ---
 
-Example [<skrispi>] website using GitLab Pages.
+Example [skripsi] website using GitLab Pages.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
@@ -38,7 +38,7 @@ To work locally with this project, you'll have to follow the steps below:
 1. Preview your project: `make serve`
 1. Add content
 
-Read more at <Project>'s [documentation][].
+Read more at skripsi's [documentation][].
 
 ## GitLab User or Group Pages
 
