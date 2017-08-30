@@ -1,7 +1,7 @@
 <?php
 /**
  * @file 	: loader.php
- * @author 	: Sukmo <dev@ipnudiy.or.id>
+ * @author 	: M. Supian (PrivCOde)
  * @date 	: 2017-01-10 09:17:43
  * @modified: Sukmo
  * @time 	: 2017-01-11 20:42:11
