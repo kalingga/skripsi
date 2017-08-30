@@ -1,8 +1,8 @@
 <?php
 /**
  * @file 	: function.inc.php
- * @author 	: sukmo wijoyo
- * @email 	: dev@ipnudiy.or.id
+ * @author 	: M. Supian (PrivCode)
+ * @email 	: privcode@gmail.com
  * @date 	: 2017-01-09 20:46:52
  * @modified: Sukmo
  * @time 	: 2017-01-16 16:54:50
