@@ -1,8 +1,8 @@
 <?php
 /**
  * @file 	: database.class.php
- * @author 	: Sukmo
- * @email 	: dev@ipnudiy.or.id
+ * @author 	: M. Supian (PrivCode)
+ * @email 	: privcode@gmail.com
  * @date 	: 2017-01-10 09:18:43
  * @modified: Sukmo
  * @time 	: 2017-01-10 09:18:54
