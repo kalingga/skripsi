@@ -68,7 +68,7 @@ include 'header.php';
                 &copy; <?php echo date('Y'); ?>. All Rights Reserved.
             </div>
             <div class="pull-right">
-                Coded with <i title="Arni Juliawati" class="fa fa-heart"></i> <a href="http://lorosukmo.github.io/" alt="Arni Juliawati" target="_blank">sukmo</a>
+                Coded with <i title="Yossi Adhyaksari" class="fa fa-heart"></i> <a href="http://lorosukmo.github.io/" alt="Yossi Adhyaksari" target="_blank">sukmo</a>
             </div>
         </div>
         
